@@ -234,3 +234,26 @@
 ---
 
 ## 📢 Share This Resource
+
+
+
+---
+
+## 👨‍💻 Credits
+
+| Role | Name |
+|------|------|
+| Original Research | Tasrif Akando & Mohamed Hamdi Ouardi |
+| GitHub Curation | Jacintchy |
+
+---
+
+<div align="center">
+
+### ⭐ Star this repo to help others find free SOC training!
+
+### 🛡️ *Your SOC career starts today. One click at a time.*
+
+**[⬆ Back to Top](#)**
+
+</div>
