@@ -175,6 +175,8 @@
 
 ---
 
+<div align="center">
+
 ##  Skills Matrix
 
 | Skill | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
@@ -257,7 +259,7 @@
 
 ---
 
-<div align="center">
+
 
 ### ⭐ Star this repo to help others find free SOC training!
 
