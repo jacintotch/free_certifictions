@@ -254,11 +254,10 @@
 |------|------|
 | Original Research | Tasrif Akando & Mohamed Hamdi Ouardi |
 | GitHub Curation | jacintotch |
-| **NUST CYBERSECURITY TEAM (NCST)** |
 
 ---
 
-
+ **NUST CYBERSECURITY TEAM (NCST)** 
 
 ### ⭐ Star this repo to help others find free SOC training!
 
