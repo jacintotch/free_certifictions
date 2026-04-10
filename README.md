@@ -160,6 +160,7 @@
 
 ---
 <div align="center">
+  
 ## Progress Tracker
 
 | # | Course | Status | Date Started | Date Completed |
