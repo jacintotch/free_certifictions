@@ -38,7 +38,7 @@
 *Click on each course below for full details.*
 
 ---
-
+</div>
 ### 🟢 Level 0: Absolute Beginner
 
 <details>
@@ -159,7 +159,7 @@
 </details>
 
 ---
-
+<div align="center">
 ## Progress Tracker
 
 | # | Course | Status | Date Started | Date Completed |
