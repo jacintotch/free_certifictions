@@ -33,7 +33,9 @@
 
 ## 📋 The Complete Free SOC Certification List
 
+---
 *Click on each course below for full details.*
+---
 
 ### 🟢 Level 0: Absolute Beginner
 
