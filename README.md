@@ -15,13 +15,13 @@
 
 ---
 
-## 🧭 Your SOC Journey Starts Here
+## Your SOC Journey Starts Here
 
 
 
 ---
 
-## 🎮 Choose Your Learning Style
+## Choose Your Learning Style
 
 | 🐢 Slow & Steady | 🐎 Fast Track | 🎯 Job Focus |
 |:----------------:|:-------------:|:------------:|
@@ -31,7 +31,7 @@
 
 ---
 
-## 📋 The Complete Free SOC Certification List
+## The Complete Free SOC Certification List
 
 ---
 *Click on each course below for full details.*
@@ -41,7 +41,7 @@
 ### 🟢 Level 0: Absolute Beginner
 
 <details>
-<summary><b>📘 1. Coursera - SOC Fundamentals</b> ⭐ Beginner</summary>
+<summary><b>1. Coursera - SOC Fundamentals</b>  Beginner</summary>
 
 | Detail | Info |
 |--------|------|
@@ -60,7 +60,7 @@
 ### 🟡 Level 1: Getting Hands-On
 
 <details>
-<summary><b>🎮 2. TryHackMe - SOC Level 1</b> ⭐ Interactive</summary>
+<summary><b>2. TryHackMe - SOC Level 1</b> Interactive</summary>
 
 | Detail | Info |
 |--------|------|
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-<summary><b>🛡️ 3. LetsDefend - SOC Analyst Path</b> ⭐ Simulation</summary>
+<summary><b>3. LetsDefend - SOC Analyst Path</b> Simulation</summary>
 
 | Detail | Info |
 |--------|------|
@@ -94,7 +94,7 @@
 ### 🔵 Level 2: Tools & Deep Skills
 
 <details>
-<summary><b>📊 4. Cisco - SOC Analyst (CCST)</b> ⭐ Industry Recognized</summary>
+<summary><b>4. Cisco - SOC Analyst (CCST)</b> Industry Recognized</summary>
 
 | Detail | Info |
 |--------|------|
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-<summary><b>📜 5. Foundations of Log Analysis</b> ⭐ Critical Skill</summary>
+<summary><b>5. Foundations of Log Analysis</b>  Critical Skill</summary>
 
 | Detail | Info |
 |--------|------|
@@ -124,7 +124,7 @@
 </details>
 
 <details>
-<summary><b>🔍 6. Splunk Fundamentals 1</b> ⭐ SIEM Focus</summary>
+<summary><b>6. Splunk Fundamentals 1</b> SIEM Focus</summary>
 
 | Detail | Info |
 |--------|------|
@@ -143,7 +143,7 @@
 ### 🟣 Level 3: Job Ready
 
 <details>
-<summary><b>🏆 7. Blue Team Junior Analyst Bundle</b> ⭐ Complete</summary>
+<summary><b> 7. Blue Team Junior Analyst Bundle</b> Complete</summary>
 
 | Detail | Info |
 |--------|------|
@@ -159,7 +159,7 @@
 
 ---
 
-## 📊 Progress Tracker
+## Progress Tracker
 
 | # | Course | Status | Date Started | Date Completed |
 |---|--------|--------|--------------|----------------|
@@ -173,7 +173,7 @@
 
 ---
 
-## 🧩 Skills Matrix
+##  Skills Matrix
 
 | Skill | #1 | #2 | #3 | #4 | #5 | #6 | #7 |
 |-------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -201,7 +201,7 @@
 ## 💡 Pro Tips
 
 <details>
-<summary><b>🔥 Click for insider advice</b></summary>
+<summary><b> Click for insider advice</b></summary>
 
 | Tip | Why It Works |
 |-----|---------------|
@@ -228,7 +228,7 @@
 
 ---
 
-## 🤝 Community & Support
+## Community & Support
 
 | Platform | What's There |
 |----------|--------------|
@@ -245,7 +245,7 @@
 
 ---
 
-## 👨‍💻 Credits
+## Credits
 
 | Role | Name |
 |------|------|
