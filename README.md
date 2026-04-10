@@ -13,7 +13,6 @@
 **No paid certs? No problem.**  
 *Everything you need is right here.*
 
-</div>
 
 ---
 
@@ -175,7 +174,6 @@
 
 ---
 
-<div align="center">
 
 ##  Skills Matrix
 
