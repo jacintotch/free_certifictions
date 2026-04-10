@@ -230,6 +230,7 @@
 | [TryHackMe Discord](https://discord.gg/tryhackme) | Help with labs |
 | [LetsDefend Community](https://community.letsdefend.io/) | SOC discussions |
 | [Reddit r/SOCAnalyst](https://reddit.com/r/SOCAnalyst) | Career advice |
+| NUST CYBERSECURITY TEAM | NCST |
 
 ---
 
@@ -244,7 +245,7 @@
 | Role | Name |
 |------|------|
 | Original Research | Tasrif Akando & Mohamed Hamdi Ouardi |
-| GitHub Curation | Jacintchy |
+| GitHub Curation | jacintotch |
 
 ---
 
@@ -254,6 +255,6 @@
 
 ### 🛡️ *Your SOC career starts today. One click at a time.*
 
-**[⬆ Back to Top](#)**
+**[⬆ Back to Top](#top)**
 
 </div>
