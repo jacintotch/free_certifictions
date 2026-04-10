@@ -191,10 +191,10 @@
 
 | Week | Focus | Courses | Daily Time |
 |------|-------|---------|------------|
-| Week 1 | Fundamentals + Basic Labs | #1 + #2 (50%) | 2-3 hours |
-| Week 2 | SOC Simulation | #3 (full) | 3-4 hours |
-| Week 3 | Tools (Splunk + Logs) | #5 + #6 | 2-3 hours |
-| Week 4 | Polish + Certifications | #4 + #7 | 3-4 hours |
+| Week 1 | Fundamentals + Basic Labs | 1 + 2 (50%) | 2-3 hours |
+| Week 2 | SOC Simulation | 3 (full) | 3-4 hours |
+| Week 3 | Tools (Splunk + Logs) | 5 + 6 | 2-3 hours |
+| Week 4 | Polish + Certifications | 4 + 7 | 3-4 hours |
 
 ---
 
