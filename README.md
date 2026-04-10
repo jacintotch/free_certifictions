@@ -4,6 +4,8 @@
 
 ### *Zero Cost → Job-Ready SOC Analyst*
 
+**Powered by NCST — Building the next generation of cybersecurity professionals**
+
 [![Free](https://img.shields.io/badge/💰-100%25_FREE-brightgreen?style=for-the-badge)](https://github.com)
 [![Resources](https://img.shields.io/badge/📚-7_Courses-blue?style=for-the-badge)](https://github.com)
 [![Time](https://img.shields.io/badge/⏱️-40-100_Hours-yellow?style=for-the-badge)](https://github.com)
@@ -175,7 +177,7 @@
 
 ##  Skills Matrix
 
-| Skill | #1 | #2 | #3 | #4 | #5 | #6 | #7 |
+| Skill | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |-------|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | SOC Fundamentals | ✅ | ✅ | ✅ | ✅ | — | — | ✅ |
 | Alert Triage | — | ✅ | ✅ | ✅ | — | — | ✅ |
@@ -235,7 +237,7 @@
 | [TryHackMe Discord](https://discord.gg/tryhackme) | Help with labs |
 | [LetsDefend Community](https://community.letsdefend.io/) | SOC discussions |
 | [Reddit r/SOCAnalyst](https://reddit.com/r/SOCAnalyst) | Career advice |
-| NUST CYBERSECURITY TEAM | NCST |
+
 
 ---
 
@@ -251,6 +253,7 @@
 |------|------|
 | Original Research | Tasrif Akando & Mohamed Hamdi Ouardi |
 | GitHub Curation | jacintotch |
+| **NUST CYBERSECURITY TEAM (NCST)** |
 
 ---
 
